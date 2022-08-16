@@ -42,14 +42,14 @@ Users should be able to:
 ![](./screenshot/Screenshot%20(47).png)
 ![](./screenshot/Screenshot%20(48).png)
 
-some sreenshots of my work
+some sreenshots of my solution to the challenge
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Othniel2471/frontend_manage)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/Othniel2471/frontend_manage)
+- Live Site URL: [](https://deft-druid-0382f9.netlify.app/)
 
 ## My process
 
